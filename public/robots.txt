@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://consulado-peru-miami.pages.dev/sitemap.xml
