@@ -1,0 +1,917 @@
+[
+ {
+  "nombre": "Asistencia Consular",
+  "slug": "asistencia-consular",
+  "icono": "asistencia-consular",
+  "tramites": [
+   {
+    "id": "certificado-consular-de-supervivencia",
+    "nombre": "Certificado consular de supervivencia",
+    "icono": "certificado-consular-de-supervivencia",
+    "intro": "Acredita que estás con vida para realizar un trámite en el Perú. Atención prioritaria para adultos mayores.",
+    "costo": "US$ 1.00",
+    "requisitos": [
+     "<b>DNI vigente y físico</b> (peruanos). Si está vencido, renuévalo antes para evitar problemas con la entidad pagadora.",
+     "<b>Pasaporte o ID de Florida vigente</b>, únicamente para extranjeros que perciben pensión del Estado peruano.",
+     "<b>Certificado médico original</b>, solo si el pensionista no puede desplazarse por postración. Debe indicar que la persona está viva, ir firmado por un médico local y estar notarizado.",
+     "<b>Cita confirmada</b>, digital o impresa."
+    ],
+    "pasos": [
+     {
+      "titulo": "Reserva tu cita en línea",
+      "detalle": "Selecciona la opción «Certificado de Supervivencia» y elige el horario que te convenga."
+     },
+     {
+      "titulo": "Acude a la oficina consular",
+      "detalle": "Es obligatoria tu presencia física, salvo enfermedad acreditada con certificado médico."
+     },
+     {
+      "titulo": "Firma y coloca tu huella digital",
+      "detalle": "Ante el funcionario consular, para dar fe de tu presencia y estado de vida."
+     },
+     {
+      "titulo": "Recibe tu certificado",
+      "detalle": "Se entrega de inmediato. Envíalo luego a tu entidad pagadora en el Perú por el canal que tengan habilitado."
+     }
+    ],
+    "alerta": null,
+    "url": "https://www.gob.pe/82737",
+    "citaEmail": null,
+    "citaExterna": null
+   }
+  ],
+  "citaUrl": "https://peru.as.me/schedule/72d07221"
+ },
+ {
+  "nombre": "DNI",
+  "slug": "dni",
+  "icono": "dni",
+  "tramites": [
+   {
+    "id": "dni-por-primera-vez-para-mayores-de-edad",
+    "nombre": "DNI por primera vez para mayores de edad",
+    "icono": "dni-por-primera-vez-para-mayores-de-edad",
+    "intro": "Si eres ciudadano peruano mayor de edad que vive en el extranjero y deseas solicitar tu DNI por primera vez. También aplica para renovación o rectificación de datos.",
+    "costo": "US$ 7.00",
+    "requisitos": [
+     "<b>DNI anterior (físico):</b> en caso de renovación o rectificación de datos.",
+     "<b>Una (1) fotografía</b> de frente tamaño pasaporte peruano (35 x 43 mm), <b>no tamaño pasaporte USA</b>, a colores con fondo blanco, nítida, sin sombras, sin anteojos ni prendas de cabeza y con expresión neutral (sin sonrisa).",
+     "<b>Copia certificada del Acta de Nacimiento:</b> solo si es la primera vez que obtienes el DNI o si el sistema del Reniec lo requiere.",
+     "<b>Documentos de sustento</b> (solo si deseas actualizar datos): estado civil (partida de matrimonio, sentencia de divorcio o acta de defunción); grado de instrucción (diploma original de grado académico o título profesional); dirección (recibo de servicios de luz, agua o teléfono que acredite tu domicilio actual en la jurisdicción).",
+     "<b>Formularios oficiales:</b> se te proporcionarán en la oficina consular para tu firma y huella digital.",
+     "<b>Si tienes 20 años o más y nunca tramitaste tu DNI</b>, se considera inscripción extemporánea y deberás presentar además las declaraciones juradas y documentos de ese trámite (ver «Inscripción extemporánea» más abajo)."
+    ],
+    "pasos": [
+     {
+      "titulo": "Reserva tu cita en línea",
+      "detalle": "Selecciona el trámite de «DNI - Mayores», elige fecha y hora, y guarda el correo de confirmación que recibirás: deberás presentarlo al ingresar."
+     },
+     {
+      "titulo": "Acude a la sede consular",
+      "detalle": "Llega con 10 minutos de anticipación y lleva contigo la fotografía física y los documentos originales solicitados."
+     },
+     {
+      "titulo": "Entrega tus documentos y regístrate",
+      "detalle": "Presenta tus requisitos en ventanilla. El funcionario validará tu identidad mediante la toma de huellas dactilares y firma digital. Deberás firmar los formularios de Reniec que te entreguen."
+     },
+     {
+      "titulo": "Realiza el pago del trámite",
+      "detalle": "Cancela US$ 7.00. El Consulado en Miami acepta tarjeta de débito o crédito (Visa y Mastercard) y Money Order. Verifica en ventanilla si existen cargos adicionales por el servicio."
+     },
+     {
+      "titulo": "Monitorea y recoge tu documento",
+      "detalle": "El DNI se imprime en Lima y llega a Miami en aproximadamente 2 a 3 meses. Verifica el estado en la web del Reniec; cuando figure «100% - En Agencia», acude al consulado de lunes a viernes en el horario de entrega, sin necesidad de cita."
+     }
+    ],
+    "alerta": "La responsabilidad de evaluar tus requisitos y emitir el documento corresponde al Reniec. El evaluador está facultado a solicitar documentación adicional de considerarlo necesario, a fin de corroborar plenamente tu identidad.",
+    "url": "https://www.gob.pe/institucion/consulado-del-peru-en-miami/tema/dni",
+    "citaEmail": null,
+    "citaExterna": null
+   },
+   {
+    "id": "dni-por-primera-vez-con-20-anos-o-mas-inscripcion-extemporan",
+    "nombre": "DNI por primera vez con 20 años o más (inscripción extemporánea)",
+    "icono": "dni-por-primera-vez-con-20-anos-o-mas-inscripcion-extemporan",
+    "intro": "Si eres peruano, tienes 20 años a más y nunca has tramitado tu DNI, debes realizar una inscripción extemporánea. Este trámite formaliza tu identidad ante el Estado peruano y te permite ejercer tu ciudadanía, votar y realizar actos civiles o notariales en el extranjero. Al ser un registro fuera de plazo, el Reniec hace una validación más detallada de tu identidad y vínculo familiar.",
+    "costo": "US$ 7.00 en efectivo (lleva el monto exacto)",
+    "requisitos": [
+     "<b>Copia certificada del Acta de Nacimiento:</b> debe ser del «libro matriz» (no transcrita), con las firmas originales de los padres, expedida por la municipalidad, oficina del Reniec o el consulado donde se registró el nacimiento.",
+     "<b>Una (1) fotografía actualizada</b> tamaño pasaporte peruano (35 x 43 mm), a colores, fondo blanco, sin anteojos ni prendas de cabeza.",
+     "<b>Declaración jurada de familia</b> directa o colaterales, con datos de hermanos, tíos o primos con DNI. Se entrega en el consulado.",
+     "<b>Declaración jurada de NO renuncia</b> a la nacionalidad peruana. Se entrega en el consulado.",
+     "<b>Declaración jurada de inscripción tardía</b>, explicando el motivo por el cual no se tramitó antes. Se entrega en el consulado.",
+     "<b>Testimonial de la madre o padre peruano</b> para acreditar tu identidad.",
+     "<b>Documentos de sustento opcionales:</b> certificados de estudios, copia de pasaporte, constancia de bautismo o cualquier documento peruano que ayude a validar tu identidad.",
+     "<b>Copia del DNI de los padres.</b> Si han fallecido, el acta de defunción peruana."
+    ],
+    "pasos": [
+     {
+      "titulo": "Reúne tus documentos de sustento",
+      "detalle": "Antes de la cita, asegúrate de tener la copia del acta de nacimiento original del libro matriz. El Reniec recomienda adjuntar también copia del expediente de inscripción del acta para verificar el reconocimiento de tus padres, además de copias de pasaportes o documentos de identidad anteriores."
+     },
+     {
+      "titulo": "Reserva tu cita en línea",
+      "detalle": "Selecciona la opción «DNI - Primera Vez / Extemporánea». Recibirás una confirmación por correo con el día y la hora de tu atención."
+     },
+     {
+      "titulo": "Acude a la sede consular y firma las declaraciones",
+      "detalle": "En ventanilla el funcionario te entregará las tres declaraciones juradas requeridas. Deberás completarlas, firmarlas y colocar tu huella digital. Si tu padre o madre te acompaña para la declaración testimonial, también deberán identificarse."
+     },
+     {
+      "titulo": "Realiza el pago",
+      "detalle": "Cancela US$ 7.00 en efectivo directamente en la oficina consular. Lleva el monto exacto para agilizar la atención."
+     },
+     {
+      "titulo": "Espera la validación y entrega",
+      "detalle": "Por tratarse de una inscripción por primera vez de un mayor de edad, la entrega demora aproximadamente 4 meses: el Reniec realiza una evaluación exhaustiva antes de emitir el documento. Podrás recogerlo cuando el estado de trámite en la web del Reniec figure al 100%."
+     }
+    ],
+    "alerta": null,
+    "url": "https://www.gob.pe/institucion/consulado-del-peru-en-miami/tema/dni",
+    "citaEmail": null,
+    "citaExterna": null
+   },
+   {
+    "id": "canjear-libreta-electoral-por-dni",
+    "nombre": "Canjear Libreta Electoral por DNI",
+    "icono": "canjear-libreta-electoral-por-dni",
+    "intro": "Si resides en el extranjero y cuentas con Libreta Electoral de 8 dígitos, puedes cambiarla por un DNI. Si tu Libreta Electoral es de 7 dígitos, no corresponde el canje: debes hacer el trámite de inscripción para solicitar el DNI por primera vez.",
+    "costo": "US$ 7.00 en efectivo (lleva el monto exacto)",
+    "requisitos": [
+     "<b>Libreta Electoral (LE):</b> documento original que se desea canjear.",
+     "<b>Copia certificada del Acta de Nacimiento:</b> del libro matriz (no transcrita), con las firmas originales de los padres, expedida por la municipalidad, el Reniec o el consulado donde se registró el nacimiento.",
+     "<b>Una (1) fotografía</b> tamaño pasaporte peruano (35 x 43 mm), a colores, fondo blanco, de frente, sin anteojos ni prendas de cabeza.",
+     "<b>Declaración jurada de familia</b> directa o colaterales, con datos de hermanos, tíos o primos con DNI. Se entrega en el consulado.",
+     "<b>Declaración jurada de NO renuncia</b> a la nacionalidad peruana. Se entrega en el consulado.",
+     "<b>Declaración jurada de inscripción tardía</b>, explicando por qué no se tramitó el DNI anteriormente. Se entrega en el consulado.",
+     "<b>Testimonial del padre o madre peruana</b> para acreditar identidad y parentesco.",
+     "<b>Documentos de sustento adicionales:</b> copias de pasaportes anteriores, certificados de estudios, libreta militar o cualquier documento peruano que ayude a validar tu identidad."
+    ],
+    "pasos": [
+     {
+      "titulo": "Programa tu cita",
+      "detalle": "Selecciona la opción «DNI - Primera Vez / Canje» y ten todos los documentos físicos listos para el día asignado."
+     },
+     {
+      "titulo": "Acude a la sede consular",
+      "detalle": "Lleva tu Libreta Electoral original, el acta de nacimiento certificada y la fotografía física con las medidas exactas solicitadas."
+     },
+     {
+      "titulo": "Completa los formularios oficiales",
+      "detalle": "En ventanilla el funcionario te entregará las tres declaraciones juradas obligatorias (familia, no renuncia e inscripción tardía). Complétalas, fírmalas y coloca tu huella digital para que el consulado remita el expediente al Reniec en Lima."
+     },
+     {
+      "titulo": "Realiza el pago",
+      "detalle": "Cancela US$ 7.00 en efectivo. Lleva el monto exacto para agilizar la atención en ventanilla."
+     },
+     {
+      "titulo": "Monitorea y recoge tu DNI",
+      "detalle": "Por tratarse de un registro por primera vez de un mayor de edad, la entrega demora aproximadamente 4 meses. Verifica el avance en la web del Reniec; cuando figure «100% - En Agencia», acude al consulado de lunes a viernes en el horario de entrega."
+     }
+    ],
+    "alerta": null,
+    "url": "https://www.gob.pe/institucion/consulado-del-peru-en-miami/tema/dni",
+    "citaEmail": null,
+    "citaExterna": null
+   },
+   {
+    "id": "dni-por-primera-vez-para-ninos-y-jovenes",
+    "nombre": "DNI por primera vez para niños y jóvenes",
+    "icono": "dni-por-primera-vez-para-ninos-y-jovenes",
+    "intro": "Para hijos peruanos menores de edad o si eres su tutor legal. Requiere la presencia física del menor y de uno de los padres, tutores legales o declarantes (abuelos, tíos directos o hermanos mayores de edad). Los menores con DNI amarillo, al día siguiente de cumplir 17 años, realizan el trámite como mayores de edad para recibir DNI electrónico y ya no necesitan la presencia de los padres.",
+    "costo": "US$ 5.00",
+    "requisitos": [
+     "<b>Presencia del menor de edad:</b> es obligatorio que el niño, niña o adolescente acuda a la cita.",
+     "<b>Presencia de uno de los padres:</b> el declarante se identifica con su DNI vigente y físico. Si el padre es extranjero, con su pasaporte o ID de Florida vigente.",
+     "<b>Copia certificada del Acta de Nacimiento peruana:</b> solo si es la primera vez que solicita el DNI o si el acta no se encuentra en la base de datos digital del Reniec.",
+     "<b>Una fotografía actual</b> tamaño pasaporte (2\" x 2\"), a color, fondo blanco, de frente, sin lentes y con expresión neutral.",
+     "<b>DNI anterior del menor:</b> solo en casos de renovación por caducidad o duplicado.",
+     "<b>Documento de sustento:</b> si deseas actualizar el estado civil o grado de instrucción (para mayores de 16 años), presenta los originales que lo acrediten."
+    ],
+    "pasos": [
+     {
+      "titulo": "Reserva una cita en línea",
+      "detalle": "Selecciona la opción «DNI Menores» y elige el horario disponible. Recibirás una confirmación por correo que deberás presentar al llegar."
+     },
+     {
+      "titulo": "Acude a la sede consular",
+      "detalle": "Ve con el menor y los requisitos. Se recomienda llegar 10 minutos antes para pasar los controles de seguridad del edificio."
+     },
+     {
+      "titulo": "Entrega la documentación y regístrate",
+      "detalle": "El funcionario tomará las huellas dactilares y la firma del menor (si tiene más de 7 años) o del padre declarante. Te entregarán un ticket de control con el número de trámite: guárdalo para el recojo."
+     },
+     {
+      "titulo": "Realiza el pago del trámite",
+      "detalle": "Cancela US$ 5.00 en la misma oficina. Se aceptan tarjeta de crédito, débito o Money Order."
+     },
+     {
+      "titulo": "Monitorea y recoge el DNI",
+      "detalle": "La entrega demora unos 2 a 3 meses porque el documento se imprime en Lima. Verifica el avance en la web del Reniec; cuando figure «100% - En Agencia» puedes recogerlo de lunes a viernes en el horario de entrega (generalmente de 1:30 p. m. a 3:30 p. m.) sin necesidad de cita."
+     }
+    ],
+    "alerta": "La evaluación de los requisitos, la aprobación del trámite y la emisión del documento son competencia exclusiva del Reniec. El evaluador está facultado para solicitar documentación adicional si lo considera necesario.",
+    "url": "https://www.gob.pe/36103",
+    "citaEmail": null,
+    "citaExterna": null
+   },
+   {
+    "id": "renovacion-de-dni-para-ninos-y-jovenes",
+    "nombre": "Renovación de DNI para niños y jóvenes",
+    "icono": "renovacion-de-dni-para-ninos-y-jovenes",
+    "intro": "Si tienes hijos peruanos menores de edad, eres familiar directo o tutor legal, y su DNI venció o está por vencer (hasta 60 días calendario antes del vencimiento). Requiere la presencia física del menor y de uno de sus padres, abuelos, tíos directos o hermanos mayores de edad, que son los declarantes. Los tutores legales también son considerados declarantes.",
+    "costo": "US$ 5.00",
+    "requisitos": [
+     "<b>Una fotografía</b> de 35 mm de ancho x 43 mm de alto, sin marco, lisa, no porosa, a colores, con fondo blanco, expresión neutral, sin mostrar los dientes, encuadrada desde la cabeza hasta la mitad del tórax, sin prendas en la cabeza salvo las de naturaleza religiosa, sin lentes, sin sombras, sin manchas, no artística ni retocada. El rostro debe abarcar el 70 % de la fotografía. <b>No puede ser la misma foto del DNI caducado.</b>",
+     "<b>Documento de identidad original</b> del padre, madre o tutor que acompaña al menor. Los peruanos se identifican con su DNI y los extranjeros con el documento de identidad de su país o pasaporte.",
+     "Si quien acompaña es <b>familiar directo</b>, debe presentar un documento que sustente el parentesco con los padres del menor.",
+     "Para <b>declarar el grado de instrucción</b>, una declaración jurada simple indicando el nivel alcanzado (especial, primaria o secundaria).",
+     "Para <b>registrar la dirección en el Perú</b>, un recibo de servicios (luz, agua o teléfono) con antigüedad no mayor a 6 meses, e indicar la dirección en el país extranjero mediante declaración jurada simple.",
+     "Para <b>registrar una discapacidad</b>, el titular o quien lo asiste completa una declaración jurada de asistencia y discapacidad. No se necesita certificado médico; si presentas uno extranjero, debe estar apostillado o legalizado, y si está en otro idioma, adjuntar traducción simple con nombre completo, firma, documento de identidad y huella digital del traductor."
+    ],
+    "pasos": [
+     {
+      "titulo": "Reserva tu cita en línea",
+      "detalle": "Selecciona la opción de DNI para menores y elige el horario disponible."
+     },
+     {
+      "titulo": "Acude a la sede consular con el menor",
+      "detalle": "Es obligatoria su presencia física junto a uno de los declarantes. Lleva la fotografía y los documentos en físico."
+     },
+     {
+      "titulo": "Entrega los requisitos y paga",
+      "detalle": "Cancela los US$ 5.00 en la misma oficina."
+     }
+    ],
+    "alerta": null,
+    "url": "https://www.gob.pe/36212",
+    "citaEmail": null,
+    "citaExterna": null
+   },
+   {
+    "id": "duplicado-de-dni-de-mayor-de-edad",
+    "nombre": "Duplicado de DNI de mayor de edad",
+    "icono": "duplicado-de-dni-de-mayor-de-edad",
+    "intro": "Si pierdes tu DNI, te lo roban, está deteriorado o en muy mal estado. Si el trámite es por robo, se sugiere denunciar el hecho ante las autoridades locales. Este proceso solo puede realizarse si el documento anterior estaba vigente.",
+    "costo": "US$ 6.00",
+    "requisitos": [
+     "<b>Declaración Jurada de pérdida o robo:</b> se te proporcionará en el consulado para que la firmes.",
+     "<b>DNI deteriorado:</b> solo en caso de que aún lo conserves pero no sea legible.",
+     "<b>Una fotografía actual</b> tamaño pasaporte (35 x 43 mm), a colores, con fondo blanco, sin anteojos y con expresión neutral.",
+     "<b>Prueba de pago:</b> el costo debe ser cancelado según las modalidades aceptadas por la oficina."
+    ],
+    "pasos": [
+     {
+      "titulo": "Reserva tu cita en línea",
+      "detalle": "Selecciona el trámite de «DNI - Duplicado» y elige la fecha y hora que mejor te convenga. Recibirás una confirmación en tu correo."
+     },
+     {
+      "titulo": "Acude a la sede consular",
+      "detalle": "Llega con 10 minutos de anticipación y lleva tu fotografía física. No es necesario llevar copias de documentos si tus datos ya están en el sistema del Reniec."
+     },
+     {
+      "titulo": "Entrega tus requisitos y firma",
+      "detalle": "En la ventanilla, el funcionario validará tu identidad mediante la toma de huellas dactilares y te entregará los formularios. Deberás firmar la solicitud de duplicado y la declaración jurada en caso de pérdida."
+     },
+     {
+      "titulo": "Realiza el pago del trámite",
+      "detalle": "Cancela US$ 6.00. El Consulado acepta generalmente pagos con tarjeta de débito o crédito (Visa/Mastercard) y Money Order. Verifica en ventanilla si hay algún cargo adicional por el servicio."
+     },
+     {
+      "titulo": "Monitorea y recoge tu documento",
+      "detalle": "La entrega demora aproximadamente 2 a 3 meses. Verifica el estado de trámite en la web del Reniec; cuando figure «100% - En Agencia» puedes pasar a recogerlo sin previa cita, de lunes a viernes en el horario de entrega de documentos."
+     }
+    ],
+    "alerta": "Una vez que empieces el proceso no podrás solicitar su anulación. El duplicado tendrá los mismos datos identificatorios, características y fecha de caducidad que el anterior, con la indicación de que es un «duplicado», y nuevos certificados digitales de persona natural.",
+    "url": "https://www.gob.pe/36104",
+    "citaEmail": null,
+    "citaExterna": null
+   }
+  ],
+  "citaUrl": "https://peru.as.me/schedule/72d07221/category/DNI/appointment/8705158/calendar/2672731"
+ },
+ {
+  "nombre": "Escrituras Públicas",
+  "slug": "escrituras-publicas",
+  "icono": "escrituras-publicas",
+  "tramites": [
+   {
+    "id": "poder-por-escritura-publica-persona-natural",
+    "nombre": "Poder por escritura pública (persona natural)",
+    "icono": "poder-por-escritura-publica-persona-natural",
+    "intro": "Para otorgar facultades de representación en el Perú: transferir propiedad, actos judiciales, venta de acciones, constituir empresas, rectificar partidas, y actos cuyos pagos superen 3 UIT (S/ 16,500). No tiene vigencia establecida salvo que la estipules o la revoques.",
+    "costo": "Se informa en el proyecto; pago en efectivo (monto exacto) o Money Order",
+    "requisitos": [
+     "<b>Cita reservada</b> adjuntando el texto de la minuta de otorgamiento de poder <b>en formato Word</b>.",
+     "<b>Dar conformidad por correo</b> al Proyecto de escritura pública que te enviarán. Si no respondes, la cita se cancela.",
+     "<b>Precisar la oficina registral de Sunarp</b> donde se inscribirá el poder.",
+     "<b>Identificarte con el mismo documento</b> usado para elaborar el proyecto. Sin ese documento no podrás ser atendido.",
+     "<b>Otorgantes desde los 80 años:</b> adjuntar al hacer la cita un certificado médico de un doctor habilitado en Florida que acredite pleno uso de sus facultades mentales.",
+     "<b>Si el poderdante no habla castellano:</b> indicarlo al hacer la cita con los datos del intérprete, que debe asistir con su documento de identidad; ambos firman y colocan huella.",
+     "<b>Si el otorgante no puede firmar:</b> indicarlo al hacer la cita con los datos de un testigo capaz, que conozca el castellano y que no sea familiar directo (padres, hermanos, tíos)."
+    ],
+    "pasos": [
+     {
+      "titulo": "Saca tu cita",
+      "detalle": "Selecciona «Escrituras públicas», adjunta el texto de la minuta en Word y confirma la cita."
+     },
+     {
+      "titulo": "Revisa el proyecto",
+      "detalle": "Días antes recibirás por correo el Proyecto de escritura pública y su costo. Es crucial que respondas dando tu conformidad; de lo contrario la cita se cancela."
+     },
+     {
+      "titulo": "Ve al consulado",
+      "detalle": "Llega 10 minutos antes e identifícate con el mismo documento que usaste para elaborar la escritura."
+     },
+     {
+      "titulo": "Recibe tus documentos",
+      "detalle": "El mismo día firmas, pagas y recibes tu Testimonio. El Parte consular se envía digitalmente a Sunarp mediante el sistema SIP-Sunarp y te llega un enlace para pagar la tasa registral por QR."
+     }
+    ],
+    "alerta": "Si falta algún documento, la oficina te notificará por correo y debes responder al menos <b>dos días hábiles antes</b> de tu cita. Como poderdante eres responsable de que todos tus datos personales sean correctos: cualquier error invalida la escritura y obliga a emitir una nueva. Los modelos de minuta son referenciales; se recomienda que un abogado los revise. Consultas: escrituras@consulado-peru.com",
+    "url": "https://www.gob.pe/36428",
+    "citaEmail": null,
+    "citaExterna": null
+   },
+   {
+    "id": "poder-por-escritura-publica-persona-juridica",
+    "nombre": "Poder por escritura pública (persona jurídica)",
+    "icono": "poder-por-escritura-publica-persona-juridica",
+    "intro": "Si representas a una persona jurídica y necesitas otorgar facultades de representación en el Perú a un tercero: disponer de bienes, representar en procesos judiciales, transferir propiedad, vender acciones, constituir empresas y otros actos cuyos pagos superen 3 UIT (S/ 16,500). Este poder tendrá vigencia hasta que lo revoques mediante otra escritura pública.",
+    "costo": "Se informa en el proyecto; pago en efectivo (monto exacto) o Money Order",
+    "requisitos": [
+     "<b>Cita reservada</b> adjuntando: el texto de la minuta de otorgamiento de poder <b>en formato Word</b>, el <b>certificado actualizado de «Good standing»</b> del Estado de Florida, y la <b>hoja de datos de la empresa</b> emitida por el Florida Department of State – Division of Corporations, donde debe figurar el nombre y cargo del representante.",
+     "<b>Dar conformidad por correo</b> al Proyecto de escritura pública que te enviarán. Si no respondes, la cita se cancela.",
+     "<b>Precisar la oficina registral de Sunarp</b> donde se inscribirá el poder.",
+     "<b>Identificarte con el mismo documento</b> usado para elaborar el proyecto. Sin ese documento no podrás ser atendido.",
+     "<b>Otorgantes desde los 80 años:</b> adjuntar al hacer la cita un certificado médico de un doctor habilitado en Florida que acredite pleno uso de sus facultades mentales.",
+     "<b>Si el poderdante no habla castellano:</b> indicarlo al hacer la cita con los datos del intérprete, que debe asistir con su documento de identidad; ambos firman y colocan huella.",
+     "<b>Si el otorgante no puede firmar:</b> indicarlo al hacer la cita con los datos de un testigo capaz, que conozca el castellano y que no sea familiar directo (padres, hermanos, tíos)."
+    ],
+    "pasos": [
+     {
+      "titulo": "Saca tu cita",
+      "detalle": "Selecciona «Escrituras públicas» y adjunta la minuta en Word, el certificado de Good standing y la hoja de datos de la empresa. Luego confirma la cita."
+     },
+     {
+      "titulo": "Revisa el proyecto",
+      "detalle": "Días antes recibirás por correo el Proyecto de escritura pública y su costo. Es crucial que respondas dando tu conformidad; de lo contrario la cita se cancela."
+     },
+     {
+      "titulo": "Ve al consulado",
+      "detalle": "Llega 10 minutos antes e identifícate con el mismo documento que usaste para elaborar la escritura."
+     },
+     {
+      "titulo": "Recibe tus documentos",
+      "detalle": "El mismo día firmas, pagas y recibes tu Testimonio. El Parte consular debe enviarse a la persona encargada en el Perú, quien debe legalizar la firma del cónsul en el Área de Legalizaciones del Ministerio de Relaciones Exteriores y luego presentarlo en Sunarp para su inscripción."
+     }
+    ],
+    "alerta": "Si falta algún documento, la oficina te notificará por correo y debes responder al menos <b>dos días hábiles antes</b> de tu cita. Como poderdante eres responsable de que todos tus datos personales sean correctos: cualquier error invalida la escritura y obliga a emitir una nueva. Los modelos de minuta son referenciales; se recomienda que un abogado los revise. Consultas: escrituras@consulado-peru.com",
+    "url": "https://www.gob.pe/81354",
+    "citaEmail": null,
+    "citaExterna": null
+   }
+  ],
+  "citaUrl": "https://peru.as.me/schedule/72d07221/category/Escrituras%2520P%25C3%25BAblicas/appointment/7998152/calendar/1682514"
+ },
+ {
+  "nombre": "Pasaportes",
+  "slug": "pasaportes",
+  "icono": "pasaportes",
+  "tramites": [
+   {
+    "id": "pasaporte-biometrico-para-mayores-de-edad",
+    "nombre": "Pasaporte biométrico para mayores de edad",
+    "icono": "pasaporte-biometrico-para-mayores-de-edad",
+    "intro": "Vigencia de 10 años. Si tu pasaporte se pierde, se destruye, se deteriora o te lo roban y estás en una emergencia, puedes obtener un pasaporte de emergencia.",
+    "costo": "US$ 70.00 en efectivo, el día de la cita",
+    "requisitos": [
+     "<b>Documento Nacional de Identidad (DNI) peruano.</b>",
+     "<b>Pasaporte anterior</b>, si lo tuvieras. Si lo extraviaste, presenta una denuncia policial de pérdida ante la autoridad de Miami.",
+     "<b>No traigas fotografía</b>: será tomada en el consulado.",
+     "<b>Un sobre USPS prepagado certificado.</b> No se aceptan sobres de FEDEX ni de UPS.",
+     "<b>Persona legalmente incapaz:</b> debe venir con su representante legal, quien se identifica con DNI (o documento oficial si es extranjero) y presenta copia del documento que lo nombra representante. Si hay curatela peruana, copia del registro en SUNARP; bajo la Ley General de la Persona con Discapacidad, el certificado de discapacidad. Si la curatela fue declarada por autoridad extranjera, solo se acepta si el dictamen es de Florida o Puerto Rico."
+    ],
+    "pasos": [
+     {
+      "titulo": "Saca tu cita",
+      "detalle": "Selecciona la opción «Pasaportes», elige día y hora y confirma la cita."
+     },
+     {
+      "titulo": "Ve al consulado",
+      "detalle": "Llega 10 minutos antes con los documentos impresos y dirígete al módulo de Pasaportes."
+     },
+     {
+      "titulo": "Paga tu derecho a trámite",
+      "detalle": "Cancela US$ 70.00 en efectivo en la misma ventanilla y entrega tu sobre USPS prepagado. Si prefieres recoger el documento, menciónaselo al funcionario."
+     }
+    ],
+    "alerta": "Si tu pasaporte se ha vencido, puedes presentarlo como documento de viaje en el control migratorio extranjero; al llegar al Perú verificarán tu identidad. Esto también aplica para viajar al Perú con tu DNI desde cualquier parte de América del Sur. Si tu vuelo de regreso hace escala en un tercer país, se recomienda solicitar un salvoconducto. Consultas: pasaportes@consulado-peru.com",
+    "url": "https://www.gob.pe/36187",
+    "citaEmail": null,
+    "citaExterna": null
+   },
+   {
+    "id": "pasaporte-biometrico-para-menores-de-edad",
+    "nombre": "Pasaporte biométrico para menores de edad",
+    "icono": "pasaporte-biometrico-para-menores-de-edad",
+    "intro": "Para hijos peruanos menores de edad sobre los que ejerces patria potestad o tutoría legal. Vigencia: 5 años para adolescentes de 12 a 17 años y 3 años para menores de 12. El menor debe venir acompañado del padre o apoderado que firma el trámite.",
+    "costo": "US$ 70.00 en efectivo, el día de la cita",
+    "requisitos": [
+     "<b>DNI peruano del menor de edad.</b>",
+     "<b>DNI del representante legal</b> si es peruano, o documento de identidad oficial del país donde se encuentre si es extranjero.",
+     "<b>Pasaporte anterior del menor</b>, si lo tuviera. Si se extravió, denuncia policial ante la autoridad de Miami.",
+     "<b>Un sobre USPS prepagado certificado.</b> No se aceptan sobres de FEDEX ni de UPS.",
+     "<b>Carta de autorización</b> descargada y presentada el día de la cita.",
+     "<b>Si lo solicita el padre o la madre:</b> copia simple del acta de nacimiento peruana del menor.",
+     "<b>Si lo solicita un apoderado:</b> copia simple del acta de nacimiento peruana y poder fuera de registro o por escritura pública con la facultad específica de gestionar el pasaporte.",
+     "<b>Si lo solicita el tutor legal:</b> copia simple del acta de nacimiento e instrumento público o judicial inscrito que lo nombre representante. Si la declaración fue de autoridad extranjera, solo se acepta si el dictamen es de Florida o Puerto Rico."
+    ],
+    "pasos": [
+     {
+      "titulo": "Saca tu cita",
+      "detalle": "Selecciona la opción «Pasaportes», elige día y hora y confirma la cita."
+     },
+     {
+      "titulo": "Ve al consulado",
+      "detalle": "Llega 10 minutos antes con los documentos impresos y dirígete al módulo de Pasaportes."
+     },
+     {
+      "titulo": "Paga tu derecho a trámite",
+      "detalle": "Cancela US$ 70.00 en efectivo y entrega tu sobre USPS prepagado."
+     }
+    ],
+    "alerta": "De manera excepcional, previa evaluación del Consulado y de la Cancillería, el menor que no cuente con DNI podrá presentar copia simple del acta de nacimiento peruana, siempre que la inscripción se haya realizado en este Consulado, o copia certificada si el registro fue en otra Oficina Consular. En ambos casos se debe iniciar el trámite de DNI en la oficina donde solicitará el pasaporte.",
+    "url": "https://www.gob.pe/36194",
+    "citaEmail": null,
+    "citaExterna": null
+   }
+  ],
+  "citaUrl": "https://peru.as.me/schedule/72d07221/category/Pasaportes/appointment/3866694/calendar/1404834"
+ },
+ {
+  "nombre": "Política Migratoria",
+  "slug": "politica-migratoria",
+  "icono": "politica-migratoria",
+  "tramites": [
+   {
+    "id": "carta-de-no-objecion",
+    "nombre": "Carta de No Objeción",
+    "icono": "carta-de-no-objecion",
+    "intro": "Permite a peruanos con visa J1 o F1 solicitar el cambio de condición migratoria y acogerse a las excepciones de la Ley de Inmigración de EE. UU., exonerando el requisito de residencia de dos años en el país de origen tras el programa de intercambio. Antes de acudir al Consulado es indispensable generar la solicitud de «J VISA WAIVER» ante el Departamento de Estado.",
+    "costo": "US$ 25.00 en efectivo (más US$ 1.00 por la inscripción consular si no la tuvieses)",
+    "requisitos": [
+     "<b>Solicitud de Carta de No Objeción</b> debidamente completada.",
+     "<b>Carta dirigida al Ministro de Relaciones Exteriores.</b>",
+     "<b>Declaración jurada simple</b> de no haber recibido ayuda económica del gobierno peruano.",
+     "<b>Constancia del PRONABEC</b> que certifique que no has sido beneficiario de becas estatales.",
+     "<b>Copia del Formato DS-2019</b> (Certificate of Eligibility for Exchange Visitors).",
+     "<b>Copia del «Waiver Review File»</b> del Departamento de Estado, donde figure tu nombre y número de caso.",
+     "<b>Carta del auspiciador de la visa</b> indicando que cumpliste con el programa.",
+     "<b>Copia del pasaporte</b> (hojas de datos personales y visa J1 o F1).",
+     "<b>Constancia de inscripción consular</b> en el Registro de Peruanos (costo US$ 1.00).",
+     "<b>Una fotografía</b> tamaño pasaporte, a color, fondo blanco, sin anteojos ni prendas de cabeza.",
+     "<b>Recibo de pago</b> por derecho de trámite.",
+     "<b>Por estudios:</b> constancia de ingreso o de estudios de la universidad o institución académica.",
+     "<b>Por trabajo:</b> oferta de empleo o contrato de trabajo vigente.",
+     "<b>Por matrimonio:</b> copia de la Partida de Matrimonio con ciudadano o residente americano."
+    ],
+    "pasos": [
+     {
+      "titulo": "Obtén tu número de caso con el Departamento de Estado",
+      "detalle": "Registra tu solicitud de exoneración en el portal del Departamento de Estado (J1 Visa Waiver). Obtendrás un «Waiver Review File» con un número de caso, indispensable para el trámite peruano."
+     },
+     {
+      "titulo": "Solicita una cita por correo electrónico",
+      "detalle": "Reúne todos los requisitos y envía un correo a tramitegeneral@consulado-peru.com adjuntando la documentación escaneada para que verifiquen todo antes de asignarte día y hora."
+     },
+     {
+      "titulo": "Acude al consulado y realiza el pago",
+      "detalle": "Presenta los documentos originales y copias, paga en efectivo y el consulado enviará tu expediente a Lima para la calificación final de la Cancillería."
+     }
+    ],
+    "alerta": "No se aceptarán solicitudes que no tengan la documentación completa y los formularios debidamente llenados.",
+    "url": "https://www.gob.pe/112675",
+    "citaEmail": "tramitegeneral@consulado-peru.com",
+    "citaExterna": null
+   },
+   {
+    "id": "tarjeta-del-migrante-retornado",
+    "nombre": "Tarjeta del migrante retornado",
+    "icono": "tarjeta-del-migrante-retornado",
+    "intro": "Beneficios tributarios y sociales de la Ley 30001 para facilitar tu reinserción en el Perú. Se solicita dentro de los 180 días calendario previos a tu ingreso al país. Los peruanos que nunca residieron en el Perú no aplican a esta ley.",
+    "costo": null,
+    "requisitos": [
+     "Registrar tu usuario en la plataforma <b>serviciosalciudadano.ree.gob.pe</b>.",
+     "Tener tu <b>DNI</b> o número correspondiente a la mano.",
+     "Completar la <b>declaración jurada</b> para solicitar la tarjeta, disponible en el enlace de la plataforma.",
+     "Llenar la <b>solicitud</b> para obtener la tarjeta de migrante."
+    ],
+    "pasos": [],
+    "alerta": "<b>Este trámite ya no se realiza en el Consulado General del Perú en Miami.</b> Debe hacerse en línea a través de serviciosalciudadano.ree.gob.pe. Dudas: tramitegeneral@consulado-peru.com",
+    "url": "https://www.gob.pe/80268",
+    "citaEmail": null,
+    "citaExterna": "https://serviciosalciudadano.ree.gob.pe/"
+   }
+  ],
+  "citaUrl": "https://peru.as.me/schedule/72d07221"
+ },
+ {
+  "nombre": "Registros Civiles",
+  "slug": "registros-civiles",
+  "icono": "registros-civiles",
+  "tramites": [
+   {
+    "id": "registrar-el-nacimiento-de-menores-de-edad-nacidos-en-el-ext",
+    "nombre": "Registrar el nacimiento de menores de edad nacidos en el extranjero",
+    "icono": "registrar-el-nacimiento-de-menores-de-edad-nacidos-en-el-ext",
+    "intro": "Si eres peruano de nacimiento y tienes hijos menores nacidos en el extranjero, puedes inscribirlos gratuitamente para otorgarles la nacionalidad peruana. También puedes inscribir nietos nacidos en el exterior. Los menores adoptados en el exterior o hijos de nacionalizados peruanos no pueden ser registrados.",
+    "costo": "Gratuito",
+    "requisitos": [
+     "<b>Formato de solicitud</b> de registro de nacimiento de peruanos menores de edad nacidos en el extranjero.",
+     "<b>Documento que acredite que el padre o la madre es peruano(a) por nacimiento:</b> nacido en el Perú, con su Partida de Nacimiento o DNI donde figure su lugar de nacimiento; o nacido en el exterior, hijo de padre o madre peruano por nacimiento, con su DNI y Partida inscrita en el Registro del Estado Civil o en el Registro de Peruanos Nacidos en el Extranjero (PNE).",
+     "<b>Documento de identidad de los padres y declarantes.</b> Si ambos son peruanos, sus documentos; si uno es extranjero, pasaporte o ID de Florida o de cualquier estado.",
+     "<b>Acta de nacimiento de Florida, Puerto Rico o Islas Vírgenes original</b> y en buenas condiciones, que se quedará en los archivos. Si el nacimiento fue en otro estado, debe estar legalizada por el Consulado con jurisdicción o apostillada.",
+     "Si el nacimiento ocurrió <b>en otro país</b>, el acta debe estar legalizada o apostillada y traducida al español, con autorización expresa del Ministerio de Relaciones Exteriores.",
+     "<b>Presencia de ambos padres</b> para firmar el acta, sin importar si uno es extranjero.",
+     "Si los padres no pueden: pueden declarar <b>abuelos, hermanos mayores de edad, tíos consanguíneos</b> o cualquier persona con tenencia del menor (con carta poder apostillada o legalizada)."
+    ],
+    "pasos": [
+     {
+      "titulo": "Saca tu cita en línea",
+      "detalle": "Selecciona el servicio «Registro Civil - Nacimientos» y elige el horario disponible."
+     },
+     {
+      "titulo": "Prepara la documentación",
+      "detalle": "Lleva el acta de nacimiento original local, que se quedará en los archivos del consulado. Verifica que los nombres de los padres coincidan exactamente con sus documentos de identidad."
+     },
+     {
+      "titulo": "Acude a la sede consular",
+      "detalle": "Ve con el otro progenitor. No es necesaria la presencia del menor, pero sí la de ambos padres declarantes."
+     },
+     {
+      "titulo": "Firma el acta de nacimiento",
+      "detalle": "Registro Civil verificará los datos y redactará el acta peruana. Ambos padres leen, firman y colocan huella digital."
+     },
+     {
+      "titulo": "Recibe la copia certificada",
+      "detalle": "Se entrega gratuitamente la primera copia certificada del acta peruana. Con ella puedes iniciar de inmediato el primer DNI del menor en la misma sede."
+     }
+    ],
+    "alerta": null,
+    "url": "https://www.gob.pe/78634",
+    "citaEmail": null,
+    "citaExterna": null
+   },
+   {
+    "id": "registrar-el-nacimiento-de-mayores-de-edad-nacidos-en-el-ext",
+    "nombre": "Registrar el nacimiento de mayores de edad nacidos en el extranjero",
+    "icono": "registrar-el-nacimiento-de-mayores-de-edad-nacidos-en-el-ext",
+    "intro": "Si eres mayor de edad nacido en el extranjero y deseas obtener la nacionalidad peruana, puedes inscribirte gratuitamente si alguno de tus padres es peruano de nacimiento. Si otorgas tu consentimiento, puedes ser inscrito por tu padre, madre o ambos. Si fuiste adoptado en el exterior o eres hijo de nacionalizados peruanos, no corresponde ser registrado.",
+    "costo": "Gratuito",
+    "requisitos": [
+     "<b>Solicitud de inscripción de nacimiento de mayor de edad</b> o el poder, según sea el caso.",
+     "<b>Documento que acredite que el padre o la madre es peruano(a) por nacimiento:</b> nacido en el Perú, con su Partida de Nacimiento o DNI donde figure su lugar de nacimiento; o nacido en el exterior, hijo de padre o madre peruano por nacimiento, con su DNI y Partida inscrita en el Registro del Estado Civil o en el Registro de Peruanos Nacidos en el Extranjero (PNE).",
+     "<b>Documento de identidad de los padres y declarantes.</b> Si uno es extranjero, el documento con el que las autoridades del país lo identifiquen con los mismos nombres y apellidos del acta de nacimiento.",
+     "<b>Acta de nacimiento de Florida, Puerto Rico o Islas Vírgenes original</b> y en buenas condiciones, donde se compruebe la paternidad o maternidad. Se queda en los archivos.",
+     "Si el nacimiento ocurrió <b>en otro país</b>, el acta debe estar legalizada por el Consulado con jurisdicción o apostillada y traducida al español, con autorización expresa del Ministerio de Relaciones Exteriores."
+    ],
+    "pasos": [
+     {
+      "titulo": "Saca tu cita",
+      "detalle": "En el sistema de citas, dentro de «Registros civiles» selecciona la opción «Nacimiento», elige día y hora y confirma."
+     },
+     {
+      "titulo": "Ve al consulado",
+      "detalle": "Llega 10 minutos antes con los documentos impresos, dirígete al módulo de Registros civiles y anúnciate."
+     },
+     {
+      "titulo": "Realiza el registro",
+      "detalle": "Si los requisitos están completos, el Departamento de Registro Civil realizará el registro. El trámite es gratuito."
+     }
+    ],
+    "alerta": null,
+    "url": "https://www.gob.pe/78700",
+    "citaEmail": null,
+    "citaExterna": null
+   },
+   {
+    "id": "registrar-matrimonios-celebrados-en-el-exterior",
+    "nombre": "Registrar matrimonios celebrados en el exterior",
+    "icono": "registrar-matrimonios-celebrados-en-el-exterior",
+    "intro": "Si eres peruano y celebraste tu matrimonio ante autoridades extranjeras, puedes registrarlo en el consulado del país donde se llevó a cabo. Puede solicitarlo el cónyuge peruano o un apoderado; no procede a pedido del cónyuge extranjero. No implica una nueva celebración: reconoce el matrimonio desde la fecha en que se celebró.",
+    "costo": "Gratuito",
+    "requisitos": [
+     "<b>Solicitud de inscripción de matrimonio.</b>",
+     "<b>Acta de matrimonio de Florida, Puerto Rico o Islas Vírgenes original</b>, expedida en los últimos 3 meses y en buenas condiciones, donde se compruebe que uno o ambos cónyuges son peruanos. Se queda en los archivos. Si fue en otro estado, debe estar legalizada por el consulado con jurisdicción.",
+     "<b>Presencia de ambos cónyuges.</b> Si ambos son peruanos, sus DNI; si uno es extranjero, el documento con el que lo identifiquen con los mismos nombres del acta, y el cónyuge peruano su DNI.",
+     "También puede efectuarlo <b>de manera individual el cónyuge peruano</b> con su DNI, presentando el documento del cónyuge ausente.",
+     "También puede hacerlo <b>un apoderado</b>, con poder otorgado ante notario o cónsul peruano (por escritura pública o fuera de registro) que lo autorice expresamente a registrar el matrimonio.",
+     "Si tu <b>DNI dice «casado»</b>, no podrás registrar el matrimonio hasta actualizar o rectificar tu estado civil."
+    ],
+    "pasos": [
+     {
+      "titulo": "Saca tu cita",
+      "detalle": "En el sistema de citas, sección «Registros civiles», selecciona «Matrimonio», elige día y hora y confirma."
+     },
+     {
+      "titulo": "Ve al consulado",
+      "detalle": "Llega 10 minutos antes con los documentos impresos y dirígete al módulo de Registros civiles."
+     },
+     {
+      "titulo": "Realiza el registro",
+      "detalle": "Si los requisitos están completos se realiza el registro. El trámite es gratuito y luego se entrega una copia certificada del acta sin costo."
+     }
+    ],
+    "alerta": null,
+    "url": "https://www.gob.pe/35967",
+    "citaEmail": null,
+    "citaExterna": null
+   },
+   {
+    "id": "registrar-el-fallecimiento-de-peruanos-en-el-exterior",
+    "nombre": "Registrar el fallecimiento de peruanos en el exterior",
+    "icono": "registrar-el-fallecimiento-de-peruanos-en-el-exterior",
+    "intro": "Para registrar la muerte de un peruano ocurrida en el extranjero. La inscripción puede ser realizada por cualquier persona interesada, peruana o extranjera, en cualquier momento.",
+    "costo": "Gratuito",
+    "requisitos": [
+     "<b>Solicitud de registro de defunción.</b> También puedes pedirla al correo informacion@consulado-peru.com",
+     "<b>Acta de defunción de Florida, Puerto Rico o Islas Vírgenes original</b> y en buenas condiciones. Se queda en los archivos. Si la defunción ocurrió en otro estado, debe estar legalizada por el consulado con jurisdicción.",
+     "Los <b>nombres del acta de defunción deben coincidir</b> con los del DNI peruano. Si lo inscribieron con otro nombre, debe hacerse el trámite de A.K.A. (also known as) con la funeraria para agregar el nombre tal como figura en el Perú.",
+     "<b>DNI peruano del fallecido.</b>"
+    ],
+    "pasos": [
+     {
+      "titulo": "Saca tu cita",
+      "detalle": "En el sistema de citas, sección «Registros civiles», selecciona «Defunción», elige día y hora y confirma."
+     },
+     {
+      "titulo": "Ve al consulado",
+      "detalle": "Llega 10 minutos antes con los documentos impresos y dirígete al módulo de Registros civiles."
+     },
+     {
+      "titulo": "Realiza el registro",
+      "detalle": "Si los requisitos están completos, el Departamento de Registro Civil procederá con el registro. El trámite es gratuito."
+     }
+    ],
+    "alerta": null,
+    "url": "https://www.gob.pe/78702",
+    "citaEmail": null,
+    "citaExterna": null
+   },
+   {
+    "id": "copias-certificadas-de-actas-emitidas-por-el-consulado",
+    "nombre": "Copias certificadas de actas emitidas por el consulado",
+    "icono": "copias-certificadas-de-actas-emitidas-por-el-consulado",
+    "intro": "Copia certificada de nacimientos, matrimonios y defunciones de peruanos ocurridos en el exterior que hayan sido registrados en esta oficina consular. Puede pedirlas cualquier persona interesada, salvo que contengan información confidencial. Para usarlas en el Perú deberás legalizarlas en una oficina de legalizaciones del Ministerio de Relaciones Exteriores.",
+    "costo": "US$ 6.00",
+    "requisitos": [
+     "<b>Solicitud de copia</b> indicando: tipo de acta (nacimiento, matrimonio o defunción), nombre del titular del acta y fecha de registro en la Oficina Consular.",
+     "<b>Exhibición del documento de identidad vigente</b> del solicitante."
+    ],
+    "pasos": [],
+    "alerta": null,
+    "url": "https://www.gob.pe/35982",
+    "citaEmail": null,
+    "citaExterna": null
+   }
+  ],
+  "citaUrl": "https://peru.as.me/schedule/72d07221/category/Registros%2520Civiles"
+ },
+ {
+  "nombre": "Trámites Notariales",
+  "slug": "tramites-notariales",
+  "icono": "tramites-notariales",
+  "tramites": [
+   {
+    "id": "legalizacion-de-firmas-de-particulares",
+    "nombre": "Legalización de firmas de particulares",
+    "icono": "legalizacion-de-firmas-de-particulares",
+    "intro": "Para legalizar un documento emitido en el extranjero ante el funcionario consular.",
+    "costo": "US$ 25.00 por cada firma legalizada. Se acepta tarjeta de crédito, débito (Visa o Mastercard) o Money Order",
+    "requisitos": [
+     "<b>Documento original a legalizar</b>, redactado de forma clara. <b>No debe estar firmado</b>: la firma se realiza obligatoriamente ante el funcionario consular.",
+     "<b>DNI físico y vigente</b> para ciudadanos peruanos. Si está vencido, deberás renovarlo simultánea o previamente.",
+     "<b>Pasaporte o ID de Florida vigente</b>, únicamente para ciudadanos extranjeros que requieran legalizar su firma.",
+     "<b>Cita confirmada:</b> presentar el comprobante de reserva impreso o en tu dispositivo móvil."
+    ],
+    "pasos": [
+     {
+      "titulo": "Reserva tu cita en línea",
+      "detalle": "Selecciona la opción «Legalización de Firma» y elige fecha y hora. Recibirás una confirmación por correo que deberás mostrar al ingresar."
+     },
+     {
+      "titulo": "Acude a la sede consular",
+      "detalle": "Llega 10 minutos antes de la hora pactada para cumplir con los protocolos de seguridad del edificio."
+     },
+     {
+      "titulo": "Presenta tu identificación y el documento",
+      "detalle": "En la ventanilla de trámites notariales. El funcionario verificará tus datos y revisará que el texto no contenga tachaduras ni enmendaduras."
+     },
+     {
+      "titulo": "Firma y coloca tu huella digital",
+      "detalle": "Bajo la supervisión del funcionario consular. Este acto presencial garantiza la autenticidad del documento ante cualquier institución en el Perú."
+     },
+     {
+      "titulo": "Realiza el pago y recibe el documento",
+      "detalle": "Cancela en la ventanilla de pagos. Una vez validado, se entrega el documento con los sellos y la oblea de seguridad."
+     }
+    ],
+    "alerta": null,
+    "url": "https://www.gob.pe/36182",
+    "citaEmail": null,
+    "citaExterna": null
+   },
+   {
+    "id": "autorizacion-de-viaje-al-extranjero-para-menores-de-edad",
+    "nombre": "Autorización de viaje al extranjero para menores de edad",
+    "icono": "autorizacion-de-viaje-al-extranjero-para-menores-de-edad",
+    "intro": "Permite a ambos padres autorizar que su hijo menor viaje fuera del Perú solo, acompañado por uno de ellos o por otro adulto. Solo pueden autorizar los padres que hayan reconocido al menor. Es de un único uso y tiene tres meses de validez desde su emisión.",
+    "costo": "US$ 20.00. Solo se acepta efectivo o Money Order",
+    "requisitos": [
+     "<b>DNI vigente y físico del padre o madre</b> que otorga el permiso. Si es extranjero, pasaporte o ID de Florida vigente.",
+     "<b>Copia del DNI del menor de edad.</b>",
+     "<b>Copia simple del Acta de Nacimiento peruana</b> del menor, solo si no está inscrito en este consulado.",
+     "<b>Datos del viaje:</b> fecha de salida y retorno, ruta (ej. Miami - Lima - Cusco) y nombre de la línea aérea.",
+     "<b>Datos del acompañante:</b> nombre completo y número de documento de identidad de quien viajará con el menor (si no viaja solo).",
+     "<b>Formulario de Autorización de Viaje:</b> se entrega en la oficina para su llenado."
+    ],
+    "pasos": [
+     {
+      "titulo": "Reserva tu cita en línea",
+      "detalle": "Selecciona el servicio «Trámites Notariales / Autorización de Viaje» y elige el horario disponible."
+     },
+     {
+      "titulo": "Acude a la sede consular",
+      "detalle": "Es obligatoria la presencia del padre o madre que otorga la autorización. Llega con 10 minutos de anticipación y lleva todos los requisitos en físico."
+     },
+     {
+      "titulo": "Firma y coloca tu huella digital",
+      "detalle": "El funcionario redactará el acta con la información del viaje. Revisa cuidadosamente que nombres, fechas y rutas sean correctos antes de firmar."
+     },
+     {
+      "titulo": "Realiza el pago del trámite",
+      "detalle": "Cancela US$ 20.00 directamente en la oficina. Una vez pagado, se entrega el documento original firmado por el cónsul."
+     },
+     {
+      "titulo": "Legaliza el documento en el Perú",
+      "detalle": "Para que tenga validez ante migraciones, debe legalizarse en el Ministerio de Relaciones Exteriores en Lima (Jr. Lampa 445) o en sus oficinas desconcentradas. Puede hacerlo cualquier persona que lleve el original, no requiere poder."
+     }
+    ],
+    "alerta": "Si no tienes contacto con el otro padre o madre, deberás tramitar una autorización judicial en el Perú con apoyo de un abogado y un apoderado nombrado por Escritura Pública. Si no firmaste la partida por ser menor o por motivos de salud, también deberás reconocer al menor mediante Escritura Pública. Si tu nombre no figura en la partida de nacimiento, no puedes autorizar el viaje: primero debes hacer el reconocimiento formal.",
+    "url": "https://www.gob.pe/36133",
+    "citaEmail": null,
+    "citaExterna": null
+   }
+  ],
+  "citaUrl": "https://peru.as.me/schedule/72d07221/category/Tr%25C3%25A1mites%2520Notariales"
+ },
+ {
+  "nombre": "Visas",
+  "slug": "visas",
+  "icono": "visas",
+  "tramites": [
+   {
+    "id": "visa-de-turista",
+    "nombre": "Visa de turista",
+    "icono": "visa-de-turista",
+    "intro": "Para extranjeros que desean visitar el Perú con fines de recreación. Los ciudadanos de algunos países de Latinoamérica y Europa no necesitan este documento. El plazo máximo de permanencia es de 183 días calendario sin prórroga, en una visita continua o en varias dentro de 12 meses desde la emisión; la autoridad migratoria indica al sellar el pasaporte el tiempo autorizado. Las prórrogas se solicitan ante Migraciones en el Perú antes de que culmine el periodo.",
+    "costo": "Se paga en ventanilla, en efectivo o money order a nombre del Consulado General del Perú en Miami",
+    "requisitos": [
+     "<b>Anticipación:</b> la solicitud debe realizarse con un mínimo de <b>15 días hábiles</b> antes de la fecha de viaje. Si tu viaje aún no está dentro de ese plazo, debes esperar a estarlo para presentar la solicitud.",
+     "<b>Crear tu usuario</b> para el trámite de visa en aplicaciones.ree.gob.pe/e-sami (hay manual de usuario en español e inglés).",
+     "<b>Documento que acredite tu residencia en los Estados Unidos.</b> La falta de esta acreditación da lugar al descarte de la solicitud, salvo situaciones especiales, como encontrarte de viaje turístico en EE. UU. y desear ampliar tu viaje para visitar el Perú (caso que será evaluado por la oficina principal en Lima).",
+     "<b>Pasaporte</b> con vigencia mínima de 6 meses desde la fecha de ingreso al Perú y con al menos 2 páginas disponibles para el estampado de la visa.",
+     "<b>Pasaporte venezolano:</b> es requisito presentar el Certificado de Antecedentes Penales emitido por el FBI.",
+     "<b>Pasaje de ida y vuelta</b> al Perú o reserva de viaje.",
+     "<b>Reserva de hotel o paquete turístico.</b> Si no te hospedarás en un hotel, presenta una carta de invitación legalizada por el Ministerio de Relaciones Exteriores del Perú (Jr. Miró Quesada N° 263 – Pasaje Acuña N° 155, Lima) o una carta de invitación certificada por un notario del estado de Florida o de Puerto Rico.",
+     "<b>Solvencia económica</b> proporcional al tiempo de permanencia: copia reciente del estado bancario del último trimestre (3 meses), mostrando ingresos constantes y balance positivo.",
+     "<b>Copia de la visa de turismo anterior</b>, si la tuvieras.",
+     "En algunos casos se podrá requerir documentación o requisitos adicionales."
+    ],
+    "pasos": [
+     {
+      "titulo": "Agenda tu entrevista personal",
+      "detalle": "Si la evaluación de tus documentos es satisfactoria, el Departamento de Visas se pondrá en contacto contigo por correo electrónico para indicarte la fecha y hora de tu entrevista personal obligatoria en la sede consular."
+     },
+     {
+      "titulo": "Asiste a la cita en el consulado",
+      "detalle": "Una vez que recibas el correo de aprobación, nos pondremos en contacto para indicarte el día y la hora. La atención es exclusivamente con cita previa, en 1401 Ponce de Leon Blvd, Coral Gables, Miami, FL 33134."
+     },
+     {
+      "titulo": "Realiza el pago y recibe la visa",
+      "detalle": "Aprobada tu entrevista, paga el costo de la visa en ventanilla, en efectivo o mediante money order a nombre del Consulado General del Perú en Miami. El funcionario te informará el plazo de entrega de tu pasaporte con la visa."
+     }
+    ],
+    "alerta": "La presentación de la solicitud y la documentación requerida <b>no garantizan el otorgamiento automático de la visa</b>. Cada pedido es evaluado individualmente por el cónsul peruano y durante el proceso podrán pedirte requisitos adicionales.",
+    "url": "https://www.gob.pe/36240",
+    "citaEmail": null,
+    "citaExterna": null
+   },
+   {
+    "id": "visa-de-negocio",
+    "nombre": "Visa de negocio",
+    "icono": "visa-de-negocio",
+    "intro": "Para extranjeros que desean realizar negocios en el Perú. Si tu país tiene un acuerdo que permita ingresar sin restricciones, no necesitas este procedimiento; sin embargo, el documento es obligatorio para quien vaya a celebrar un contrato en territorio peruano. La visa no permite realizar actividades lucrativas ni recibir renta de fuente peruana, salvo dietas como director de empresas domiciliadas en el Perú u honorarios como conferencista o consultor internacional por un contrato que no exceda 30 días continuos o acumulados en 12 meses. Permanencia máxima: 183 días calendario sin prórroga.",
+    "costo": "Se paga en ventanilla, en efectivo o money order a nombre del Consulado General del Perú en Miami",
+    "requisitos": [
+     "<b>Anticipación:</b> la solicitud debe realizarse con un mínimo de <b>15 días hábiles</b> antes de la fecha de viaje. Si tu viaje aún no está dentro de ese plazo, debes esperar a estarlo para presentar la solicitud.",
+     "<b>Crear tu usuario</b> para el trámite de visa en aplicaciones.ree.gob.pe/e-sami (hay manual de usuario en español e inglés).",
+     "<b>Pasaporte vigente</b> con validez mínima de seis (6) meses desde la fecha de ingreso al Perú.",
+     "<b>Acreditación de residencia o ciudadanía en EE. UU.:</b> copia de tu Green Card o pasaporte estadounidense.",
+     "<b>Pasaje de ida y vuelta:</b> reserva de vuelo, ticket electrónico o itinerario.",
+     "<b>Carta de la empresa en el extranjero</b> especificando el objeto de la visita, el tiempo de duración y el respaldo económico para cubrir tus gastos.",
+     "<b>Carta de la empresa peruana</b> (si aplica), señalando el motivo, plazo del viaje y respaldo económico de la contraparte nacional.",
+     "<b>Si eres independiente:</b> presenta una declaración jurada de tus actividades y demuestra tu solvencia económica."
+    ],
+    "pasos": [
+     {
+      "titulo": "Agenda tu entrevista personal",
+      "detalle": "Si la evaluación de tus documentos es satisfactoria, el Departamento de Visas se pondrá en contacto contigo por correo electrónico para indicarte la fecha y hora de tu entrevista personal obligatoria en la sede consular."
+     },
+     {
+      "titulo": "Asiste a la cita en el consulado",
+      "detalle": "Una vez que recibas el correo de aprobación, nos pondremos en contacto para indicarte el día y la hora. La atención es exclusivamente con cita previa, en 1401 Ponce de Leon Blvd, Coral Gables, Miami, FL 33134."
+     },
+     {
+      "titulo": "Realiza el pago y recibe la visa",
+      "detalle": "Aprobada tu entrevista, paga el costo de la visa en ventanilla, en efectivo o mediante money order a nombre del Consulado General del Perú en Miami. El funcionario te informará el plazo de entrega de tu pasaporte con la visa."
+     }
+    ],
+    "alerta": "La presentación de la solicitud y la documentación requerida <b>no garantizan el otorgamiento automático de la visa</b>. Cada pedido es evaluado individualmente por el cónsul peruano y durante el proceso podrán pedirte requisitos adicionales.",
+    "url": "https://www.gob.pe/36239",
+    "citaEmail": null,
+    "citaExterna": null
+   },
+   {
+    "id": "visa-de-transito",
+    "nombre": "Visa de tránsito",
+    "icono": "visa-de-transito",
+    "intro": "Para extranjeros que harán escala en el Perú y necesitan visa para ingresar como transeúnte. Desde el 1 de febrero de 2025 es obligatoria para quienes no estén exonerados según el Decreto Supremo N° 004-2025-RE. Permite una estancia temporal mientras esperas tu conexión al destino final. El plazo máximo de permanencia es de 2 días calendario desde el ingreso, prorrogables por un máximo de quince (15) días calendario, plazo que incluye el mismo día del ingreso.",
+    "costo": "Se paga en ventanilla, en efectivo o money order a nombre del Consulado General del Perú en Miami",
+    "requisitos": [
+     "<b>Anticipación:</b> la solicitud debe realizarse con un mínimo de <b>15 días hábiles</b> antes de la fecha de viaje. Si tu viaje aún no está dentro de ese plazo, debes esperar a estarlo para presentar la solicitud.",
+     "<b>Crear tu usuario</b> para el trámite de visa en aplicaciones.ree.gob.pe/e-sami (hay manual de usuario en español e inglés).",
+     "<b>Pasaporte vigente</b> con validez mínima de seis (6) meses desde la fecha de ingreso al Perú.",
+     "<b>Acreditación de residencia o ciudadanía en EE. UU.:</b> copia de tu Green Card o pasaporte estadounidense.",
+     "<b>Pasaje de ida y vuelta:</b> reserva de vuelo, ticket electrónico o itinerario."
+    ],
+    "pasos": [
+     {
+      "titulo": "Agenda tu entrevista personal",
+      "detalle": "Si la evaluación de tus documentos es satisfactoria, el Departamento de Visas se pondrá en contacto contigo por correo electrónico para indicarte la fecha y hora de tu entrevista personal obligatoria en la sede consular."
+     },
+     {
+      "titulo": "Asiste a la cita en el consulado",
+      "detalle": "Una vez que recibas el correo de aprobación, nos pondremos en contacto para indicarte el día y la hora. La atención es exclusivamente con cita previa, en 1401 Ponce de Leon Blvd, Coral Gables, Miami, FL 33134."
+     },
+     {
+      "titulo": "Realiza el pago y recibe la visa",
+      "detalle": "Aprobada tu entrevista, paga el costo de la visa en ventanilla, en efectivo o mediante money order a nombre del Consulado General del Perú en Miami. El funcionario te informará el plazo de entrega de tu pasaporte con la visa."
+     }
+    ],
+    "alerta": "La presentación de la solicitud y la documentación requerida <b>no garantizan el otorgamiento automático de la visa</b>. Cada pedido es evaluado individualmente por el cónsul peruano y durante el proceso podrán pedirte requisitos adicionales.",
+    "url": "https://www.gob.pe/86323",
+    "citaEmail": null,
+    "citaExterna": null
+   },
+   {
+    "id": "visa-de-periodista",
+    "nombre": "Visa de periodista",
+    "icono": "visa-de-periodista",
+    "intro": "Para extranjeros que desean ingresar al Perú con su equipo profesional sin realizar pagos ni trámites aduaneros. Si eres ciudadano español o tu nacionalidad pertenece al espacio Schengen, puedes ingresar sin este documento presentando solo el Formulario de Internamiento en el Consulado. El plazo máximo de permanencia es de hasta 90 días calendario, en una visita continua o en varias dentro de 6 meses desde la emisión de la visa. Si incumples este reglamento, serás multado por Migraciones según ley.",
+    "costo": "Se paga en ventanilla, en efectivo o money order a nombre del Consulado General del Perú en Miami",
+    "requisitos": [
+     "<b>Anticipación:</b> la solicitud debe realizarse con un mínimo de <b>15 días hábiles</b> antes de la fecha de viaje. Si tu viaje aún no está dentro de ese plazo, debes esperar a estarlo para presentar la solicitud.",
+     "<b>Crear tu usuario</b> para el trámite de visa en aplicaciones.ree.gob.pe/e-sami (hay manual de usuario en español e inglés).",
+     "<b>Pasaporte vigente</b> con validez mínima de seis (6) meses desde la fecha de ingreso al Perú.",
+     "<b>Acreditación de residencia o ciudadanía en EE. UU.:</b> copia de tu Green Card o pasaporte estadounidense.",
+     "<b>Pasaje de ida y vuelta:</b> reserva de vuelo, ticket electrónico o itinerario.",
+     "<b>Carta de presentación del medio de comunicación</b> indicando el nombre del evento o noticia a cubrir y la duración de la estadía.",
+     "<b>Formulario de acreditación de prensa extranjera.</b>",
+     "<b>Formulario de internamiento temporal de equipos</b> para el ingreso de material de uso profesional.",
+     "<b>Una (1) fotografía</b> tamaño pasaporte a colores."
+    ],
+    "pasos": [
+     {
+      "titulo": "Agenda tu entrevista personal",
+      "detalle": "Si la evaluación de tus documentos es satisfactoria, el Departamento de Visas se pondrá en contacto contigo por correo electrónico para indicarte la fecha y hora de tu entrevista personal obligatoria en la sede consular."
+     },
+     {
+      "titulo": "Asiste a la cita en el consulado",
+      "detalle": "Una vez que recibas el correo de aprobación, nos pondremos en contacto para indicarte el día y la hora. La atención es exclusivamente con cita previa, en 1401 Ponce de Leon Blvd, Coral Gables, Miami, FL 33134."
+     },
+     {
+      "titulo": "Realiza el pago y recibe la visa",
+      "detalle": "Aprobada tu entrevista, paga el costo de la visa en ventanilla, en efectivo o mediante money order a nombre del Consulado General del Perú en Miami. El funcionario te informará el plazo de entrega de tu pasaporte con la visa."
+     }
+    ],
+    "alerta": "La presentación de la solicitud y la documentación requerida <b>no garantizan el otorgamiento automático de la visa</b>. Cada pedido es evaluado individualmente por el cónsul peruano y durante el proceso podrán pedirte requisitos adicionales.",
+    "url": "https://www.gob.pe/74167",
+    "citaEmail": null,
+    "citaExterna": null
+   }
+  ],
+  "citaUrl": "https://peru.as.me/schedule/72d07221"
+ }
+]
