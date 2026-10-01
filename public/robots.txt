@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://giogz.github.io/conper-miami/sitemap.xml
